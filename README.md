@@ -1,4 +1,4 @@
-# Asynchronous-Breadth-First-Search-Generation-Algorithm
+# BFS-Generation-Algorithm-with-Asynchronous-Random-Nodes
  BFS priority search algorithm is used in this network application developed with Omnet ++.
  <br/>
  ``` OMNeT++ ile geliştirilen bu ağ uygulamasında BFS öncelikli arama algoritması kullanılmıştır. ```
